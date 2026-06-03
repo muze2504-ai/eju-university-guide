@@ -1,0 +1,786 @@
+[
+  {
+    "id": "tokyo-university",
+    "name": "东京大学",
+    "region": "关东 / 东京都",
+    "type": "国立",
+    "faculties": [
+      {
+        "name": "理科一类",
+        "departments": [
+          "工学部方向",
+          "理学部方向",
+          "信息相关方向"
+        ]
+      },
+      {
+        "name": "理科二类",
+        "departments": [
+          "农学部方向",
+          "药学部方向",
+          "理学部方向"
+        ]
+      }
+    ],
+    "basicInfo": "日本代表性国立大学，理工科竞争强，具体报考资格需以当年度私费外国人留学生募集要项为准。",
+    "ejuRequirements": "未确认",
+    "referenceEjuScore": "示例参考：730+",
+    "englishRequirements": "未确认",
+    "internalExam": "未确认",
+    "applicationMaterials": [
+      {
+        "name": "毕业证明书",
+        "status": "必须"
+      },
+      {
+        "name": "成绩证明书",
+        "status": "必须"
+      },
+      {
+        "name": "EJU成绩通知书",
+        "status": "必须"
+      },
+      {
+        "name": "英语成绩证明",
+        "status": "可能需要"
+      },
+      {
+        "name": "护照复印件",
+        "status": "必须"
+      },
+      {
+        "name": "在留卡复印件",
+        "status": "可能需要"
+      },
+      {
+        "name": "照片",
+        "status": "必须"
+      },
+      {
+        "name": "志望理由书",
+        "status": "可能需要"
+      },
+      {
+        "name": "推荐信",
+        "status": "可能需要"
+      },
+      {
+        "name": "入学愿书",
+        "status": "必须"
+      },
+      {
+        "name": "检定料支付证明",
+        "status": "必须"
+      }
+    ],
+    "applicationStart": "未确认",
+    "applicationDeadline": "未确认",
+    "examDate": "未确认",
+    "resultDate": "未确认",
+    "pdfUrl": "未确认",
+    "notes": "参考分数仅用于 MVP 展示，请后续按最新募集要项和合格案例核对。",
+    "guidelineUrl": "未确认",
+    "officialPageUrl": "未确认",
+    "lastChecked": "未确认",
+    "guidelineStatus": "未确认",
+    "admissionTimeline": {
+      "applicationStart": "未确认",
+      "applicationDeadline": "未确认",
+      "examDate": "未确认",
+      "resultDate": "未确认",
+      "enrollmentProcedureDeadline": "未确认"
+    }
+  },
+  {
+    "id": "kyoto-university",
+    "name": "京都大学",
+    "region": "近畿 / 京都府",
+    "type": "国立",
+    "faculties": [
+      {
+        "name": "工学部",
+        "departments": [
+          "地球工学科",
+          "建築学科",
+          "物理工学科",
+          "电气电子工学科",
+          "信息学科",
+          "工业化学科"
+        ]
+      },
+      {
+        "name": "理学部",
+        "departments": [
+          "理学科"
+        ]
+      }
+    ],
+    "basicInfo": "关西地区顶尖国立大学，理工科专业选择广。",
+    "ejuRequirements": "未确认",
+    "referenceEjuScore": "示例参考：720+",
+    "englishRequirements": "未确认",
+    "internalExam": "未确认",
+    "applicationMaterials": [
+      {
+        "name": "毕业证明书",
+        "status": "必须"
+      },
+      {
+        "name": "成绩证明书",
+        "status": "必须"
+      },
+      {
+        "name": "EJU成绩通知书",
+        "status": "必须"
+      },
+      {
+        "name": "英语成绩证明",
+        "status": "可能需要"
+      },
+      {
+        "name": "护照复印件",
+        "status": "必须"
+      },
+      {
+        "name": "在留卡复印件",
+        "status": "可能需要"
+      },
+      {
+        "name": "照片",
+        "status": "必须"
+      },
+      {
+        "name": "志望理由书",
+        "status": "可能需要"
+      },
+      {
+        "name": "推荐信",
+        "status": "可能需要"
+      },
+      {
+        "name": "入学愿书",
+        "status": "必须"
+      },
+      {
+        "name": "检定料支付证明",
+        "status": "必须"
+      }
+    ],
+    "applicationStart": "未确认",
+    "applicationDeadline": "未确认",
+    "examDate": "未确认",
+    "resultDate": "未确认",
+    "pdfUrl": "未确认",
+    "notes": "不同学部可能要求不同科目组合。",
+    "guidelineUrl": "未确认",
+    "officialPageUrl": "未确认",
+    "lastChecked": "未确认",
+    "guidelineStatus": "未确认",
+    "admissionTimeline": {
+      "applicationStart": "未确认",
+      "applicationDeadline": "未确认",
+      "examDate": "未确认",
+      "resultDate": "未确认",
+      "enrollmentProcedureDeadline": "未确认"
+    }
+  },
+  {
+    "id": "osaka-university",
+    "name": "大阪大学",
+    "region": "近畿 / 大阪府",
+    "type": "国立",
+    "faculties": [
+      {
+        "name": "工学部",
+        "departments": [
+          "应用自然科学科",
+          "机械工学科",
+          "电子信息工学科",
+          "环境能源工学科",
+          "地球综合工学科"
+        ]
+      },
+      {
+        "name": "基础工学部",
+        "departments": [
+          "电子物理科学科",
+          "化学应用科学科",
+          "系统科学科",
+          "信息科学科"
+        ]
+      },
+      {
+        "name": "理学部",
+        "departments": [
+          "数学科",
+          "物理学科",
+          "化学科",
+          "生物科学科"
+        ]
+      }
+    ],
+    "basicInfo": "大阪地区国立综合大学，工学和基础工学方向较完整。",
+    "ejuRequirements": "未确认",
+    "referenceEjuScore": "示例参考：700+",
+    "englishRequirements": "未确认",
+    "internalExam": "未确认",
+    "applicationMaterials": [
+      {
+        "name": "毕业证明书",
+        "status": "必须"
+      },
+      {
+        "name": "成绩证明书",
+        "status": "必须"
+      },
+      {
+        "name": "EJU成绩通知书",
+        "status": "必须"
+      },
+      {
+        "name": "英语成绩证明",
+        "status": "可能需要"
+      },
+      {
+        "name": "护照复印件",
+        "status": "必须"
+      },
+      {
+        "name": "在留卡复印件",
+        "status": "可能需要"
+      },
+      {
+        "name": "照片",
+        "status": "必须"
+      },
+      {
+        "name": "志望理由书",
+        "status": "可能需要"
+      },
+      {
+        "name": "推荐信",
+        "status": "可能需要"
+      },
+      {
+        "name": "入学愿书",
+        "status": "必须"
+      },
+      {
+        "name": "检定料支付证明",
+        "status": "必须"
+      }
+    ],
+    "applicationStart": "未确认",
+    "applicationDeadline": "未确认",
+    "examDate": "未确认",
+    "resultDate": "未确认",
+    "pdfUrl": "未确认",
+    "notes": "请按目标学部确认是否需要托福、托业或校内考。",
+    "guidelineUrl": "未确认",
+    "officialPageUrl": "未确认",
+    "lastChecked": "未确认",
+    "guidelineStatus": "未确认",
+    "admissionTimeline": {
+      "applicationStart": "未确认",
+      "applicationDeadline": "未确认",
+      "examDate": "未确认",
+      "resultDate": "未确认",
+      "enrollmentProcedureDeadline": "未确认"
+    }
+  },
+  {
+    "id": "tohoku-university",
+    "name": "东北大学",
+    "region": "东北 / 宫城县",
+    "type": "国立",
+    "faculties": [
+      {
+        "name": "工学部",
+        "departments": [
+          "机械智能航空工学科",
+          "电气信息物理工学科",
+          "化学材料工学科",
+          "土木环境工学科"
+        ]
+      },
+      {
+        "name": "理学部",
+        "departments": [
+          "数学系",
+          "物理系",
+          "化学系",
+          "地球科学系",
+          "生物系"
+        ]
+      }
+    ],
+    "basicInfo": "研究型国立大学，工程、材料、信息等方向适合重点关注。",
+    "ejuRequirements": "未确认",
+    "referenceEjuScore": "示例参考：690+",
+    "englishRequirements": "未确认",
+    "internalExam": "未确认",
+    "applicationMaterials": [
+      {
+        "name": "毕业证明书",
+        "status": "必须"
+      },
+      {
+        "name": "成绩证明书",
+        "status": "必须"
+      },
+      {
+        "name": "EJU成绩通知书",
+        "status": "必须"
+      },
+      {
+        "name": "英语成绩证明",
+        "status": "可能需要"
+      },
+      {
+        "name": "护照复印件",
+        "status": "必须"
+      },
+      {
+        "name": "在留卡复印件",
+        "status": "可能需要"
+      },
+      {
+        "name": "照片",
+        "status": "必须"
+      },
+      {
+        "name": "志望理由书",
+        "status": "可能需要"
+      },
+      {
+        "name": "推荐信",
+        "status": "可能需要"
+      },
+      {
+        "name": "入学愿书",
+        "status": "必须"
+      },
+      {
+        "name": "检定料支付证明",
+        "status": "必须"
+      }
+    ],
+    "applicationStart": "未确认",
+    "applicationDeadline": "未确认",
+    "examDate": "未确认",
+    "resultDate": "未确认",
+    "pdfUrl": "未确认",
+    "notes": "各学部的选考方式可能不同。",
+    "guidelineUrl": "未确认",
+    "officialPageUrl": "未确认",
+    "lastChecked": "未确认",
+    "guidelineStatus": "未确认",
+    "admissionTimeline": {
+      "applicationStart": "未确认",
+      "applicationDeadline": "未确认",
+      "examDate": "未确认",
+      "resultDate": "未确认",
+      "enrollmentProcedureDeadline": "未确认"
+    }
+  },
+  {
+    "id": "tsukuba-university",
+    "name": "筑波大学",
+    "region": "关东 / 茨城县",
+    "type": "国立",
+    "faculties": [
+      {
+        "name": "理工学群",
+        "departments": [
+          "数学类",
+          "物理学类",
+          "化学类",
+          "应用理工学类",
+          "工程系统学类",
+          "社会工学类"
+        ]
+      },
+      {
+        "name": "信息学群",
+        "departments": [
+          "信息科学类",
+          "信息媒体创成学类",
+          "知识信息图书馆学类"
+        ]
+      }
+    ],
+    "basicInfo": "学群制大学，理工与信息方向的检索需求较高。",
+    "ejuRequirements": "未确认",
+    "referenceEjuScore": "示例参考：660+",
+    "englishRequirements": "未确认",
+    "internalExam": "未确认",
+    "applicationMaterials": [
+      {
+        "name": "毕业证明书",
+        "status": "必须"
+      },
+      {
+        "name": "成绩证明书",
+        "status": "必须"
+      },
+      {
+        "name": "EJU成绩通知书",
+        "status": "必须"
+      },
+      {
+        "name": "英语成绩证明",
+        "status": "可能需要"
+      },
+      {
+        "name": "护照复印件",
+        "status": "必须"
+      },
+      {
+        "name": "在留卡复印件",
+        "status": "可能需要"
+      },
+      {
+        "name": "照片",
+        "status": "必须"
+      },
+      {
+        "name": "志望理由书",
+        "status": "可能需要"
+      },
+      {
+        "name": "推荐信",
+        "status": "可能需要"
+      },
+      {
+        "name": "入学愿书",
+        "status": "必须"
+      },
+      {
+        "name": "检定料支付证明",
+        "status": "必须"
+      }
+    ],
+    "applicationStart": "未确认",
+    "applicationDeadline": "未确认",
+    "examDate": "未确认",
+    "resultDate": "未确认",
+    "pdfUrl": "未确认",
+    "notes": "适合作为后续细化学类筛选的样本。",
+    "guidelineUrl": "未确认",
+    "officialPageUrl": "未确认",
+    "lastChecked": "未确认",
+    "guidelineStatus": "未确认",
+    "admissionTimeline": {
+      "applicationStart": "未确认",
+      "applicationDeadline": "未确认",
+      "examDate": "未确认",
+      "resultDate": "未确认",
+      "enrollmentProcedureDeadline": "未确认"
+    }
+  },
+  {
+    "id": "waseda-university",
+    "name": "早稻田大学",
+    "region": "关东 / 东京都",
+    "type": "私立",
+    "faculties": [
+      {
+        "name": "基干理工学部",
+        "departments": [
+          "数学科",
+          "应用数理学科",
+          "机械科学航空宇宙学科",
+          "电子物理系统学科",
+          "信息理工学科",
+          "信息通信学科",
+          "表现工学科"
+        ]
+      },
+      {
+        "name": "创造理工学部",
+        "departments": [
+          "建筑学科",
+          "综合机械工学科",
+          "经营系统工学科",
+          "社会环境工学科",
+          "环境资源工学科"
+        ]
+      },
+      {
+        "name": "先进理工学部",
+        "departments": [
+          "物理学科",
+          "应用物理学科",
+          "化学生命化学科",
+          "应用化学科",
+          "生命医科学科",
+          "电气信息生命工学科"
+        ]
+      }
+    ],
+    "basicInfo": "东京私立名校，理工三学部专业范围广。",
+    "ejuRequirements": "未确认",
+    "referenceEjuScore": "示例参考：680+",
+    "englishRequirements": "未确认",
+    "internalExam": "未确认",
+    "applicationMaterials": [
+      {
+        "name": "毕业证明书",
+        "status": "必须"
+      },
+      {
+        "name": "成绩证明书",
+        "status": "必须"
+      },
+      {
+        "name": "EJU成绩通知书",
+        "status": "必须"
+      },
+      {
+        "name": "英语成绩证明",
+        "status": "可能需要"
+      },
+      {
+        "name": "护照复印件",
+        "status": "必须"
+      },
+      {
+        "name": "在留卡复印件",
+        "status": "可能需要"
+      },
+      {
+        "name": "照片",
+        "status": "必须"
+      },
+      {
+        "name": "志望理由书",
+        "status": "可能需要"
+      },
+      {
+        "name": "推荐信",
+        "status": "可能需要"
+      },
+      {
+        "name": "入学愿书",
+        "status": "必须"
+      },
+      {
+        "name": "检定料支付证明",
+        "status": "必须"
+      }
+    ],
+    "applicationStart": "未确认",
+    "applicationDeadline": "未确认",
+    "examDate": "未确认",
+    "resultDate": "未确认",
+    "pdfUrl": "未确认",
+    "notes": "私立大学常见报名方式、英语提交和校内考安排需单独核对。",
+    "guidelineUrl": "未确认",
+    "officialPageUrl": "未确认",
+    "lastChecked": "未确认",
+    "guidelineStatus": "未确认",
+    "admissionTimeline": {
+      "applicationStart": "未确认",
+      "applicationDeadline": "未确认",
+      "examDate": "未确认",
+      "resultDate": "未确认",
+      "enrollmentProcedureDeadline": "未确认"
+    }
+  },
+  {
+    "id": "keio-university",
+    "name": "庆应义塾大学",
+    "region": "关东 / 东京都、神奈川县",
+    "type": "私立",
+    "faculties": [
+      {
+        "name": "理工学部",
+        "departments": [
+          "机械工学科",
+          "电气信息工学科",
+          "应用化学科",
+          "物理信息工学科",
+          "管理工学科",
+          "数理科学科",
+          "物理学科",
+          "化学科",
+          "系统设计工学科",
+          "信息工学科",
+          "生命信息学科"
+        ]
+      }
+    ],
+    "basicInfo": "私立综合大学，理工学部方向集中，适合作为私立理工目标校。",
+    "ejuRequirements": "未确认",
+    "referenceEjuScore": "示例参考：680+",
+    "englishRequirements": "未确认",
+    "internalExam": "未确认",
+    "applicationMaterials": [
+      {
+        "name": "毕业证明书",
+        "status": "必须"
+      },
+      {
+        "name": "成绩证明书",
+        "status": "必须"
+      },
+      {
+        "name": "EJU成绩通知书",
+        "status": "必须"
+      },
+      {
+        "name": "英语成绩证明",
+        "status": "可能需要"
+      },
+      {
+        "name": "护照复印件",
+        "status": "必须"
+      },
+      {
+        "name": "在留卡复印件",
+        "status": "可能需要"
+      },
+      {
+        "name": "照片",
+        "status": "必须"
+      },
+      {
+        "name": "志望理由书",
+        "status": "可能需要"
+      },
+      {
+        "name": "推荐信",
+        "status": "可能需要"
+      },
+      {
+        "name": "入学愿书",
+        "status": "必须"
+      },
+      {
+        "name": "检定料支付证明",
+        "status": "必须"
+      }
+    ],
+    "applicationStart": "未确认",
+    "applicationDeadline": "未确认",
+    "examDate": "未确认",
+    "resultDate": "未确认",
+    "pdfUrl": "未确认",
+    "notes": "请确认当年度外国人留学生入试是否开放目标学科。",
+    "guidelineUrl": "未确认",
+    "officialPageUrl": "未确认",
+    "lastChecked": "未确认",
+    "guidelineStatus": "未确认",
+    "admissionTimeline": {
+      "applicationStart": "未确认",
+      "applicationDeadline": "未确认",
+      "examDate": "未确认",
+      "resultDate": "未确认",
+      "enrollmentProcedureDeadline": "未确认"
+    }
+  },
+  {
+    "id": "tokyo-metropolitan-university",
+    "name": "东京都立大学",
+    "region": "关东 / 东京都",
+    "type": "公立",
+    "faculties": [
+      {
+        "name": "理学部",
+        "departments": [
+          "数理科学科",
+          "物理学科",
+          "化学科",
+          "生命科学科"
+        ]
+      },
+      {
+        "name": "都市环境学部",
+        "departments": [
+          "地理环境学科",
+          "都市基盘环境学科",
+          "建筑学科",
+          "环境应用化学科"
+        ]
+      },
+      {
+        "name": "系统设计学部",
+        "departments": [
+          "信息科学科",
+          "电子信息系统工学科",
+          "机械系统工学科",
+          "航空宇宙系统工学科",
+          "工业艺术学科"
+        ]
+      }
+    ],
+    "basicInfo": "东京都公立大学，理学、都市环境、系统设计方向适合中高分段关注。",
+    "ejuRequirements": "未确认",
+    "referenceEjuScore": "示例参考：620+",
+    "englishRequirements": "未确认",
+    "internalExam": "未确认",
+    "applicationMaterials": [
+      {
+        "name": "毕业证明书",
+        "status": "必须"
+      },
+      {
+        "name": "成绩证明书",
+        "status": "必须"
+      },
+      {
+        "name": "EJU成绩通知书",
+        "status": "必须"
+      },
+      {
+        "name": "英语成绩证明",
+        "status": "可能需要"
+      },
+      {
+        "name": "护照复印件",
+        "status": "必须"
+      },
+      {
+        "name": "在留卡复印件",
+        "status": "可能需要"
+      },
+      {
+        "name": "照片",
+        "status": "必须"
+      },
+      {
+        "name": "志望理由书",
+        "status": "可能需要"
+      },
+      {
+        "name": "推荐信",
+        "status": "可能需要"
+      },
+      {
+        "name": "入学愿书",
+        "status": "必须"
+      },
+      {
+        "name": "检定料支付证明",
+        "status": "必须"
+      }
+    ],
+    "applicationStart": "未确认",
+    "applicationDeadline": "未确认",
+    "examDate": "未确认",
+    "resultDate": "未确认",
+    "pdfUrl": "未确认",
+    "notes": "公立大学费用和地区条件可在后续版本加入筛选。",
+    "guidelineUrl": "未确认",
+    "officialPageUrl": "未确认",
+    "lastChecked": "未确认",
+    "guidelineStatus": "未确认",
+    "admissionTimeline": {
+      "applicationStart": "未确认",
+      "applicationDeadline": "未确认",
+      "examDate": "未确认",
+      "resultDate": "未确认",
+      "enrollmentProcedureDeadline": "未确认"
+    }
+  }
+]
