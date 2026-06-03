@@ -23,6 +23,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   margin: 0;
+  font-size: 15px;
 }
 
 button,
